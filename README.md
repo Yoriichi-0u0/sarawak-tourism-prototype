@@ -2,6 +2,18 @@
 
 A responsive Sarawak tourism UI/UX prototype based on the SWE30003 Assignment 01 case and the supplied draft SRS. It supports discovery, planning, external travel arrangements, and a local management demonstration.
 
+**Live prototype:** [sarawak-tourism-prototype.vercel.app](https://sarawak-tourism-prototype.vercel.app/) · **Source:** [GitHub](https://github.com/Yoriichi-0u0/sarawak-tourism-prototype)
+
+The production site is public and requires no login. Vercel is connected to the GitHub `main` branch for future deployments. Anyone with the site link can explore the prototype; local management changes remain on their own device.
+
+## Desktop and mobile previews
+
+Captured from the public deployment at 1440×1080 and 390×844. Images are illustrative concept photography.
+
+![Desktop discovery screen](docs/screenshots/desktop.png)
+
+![Mobile discovery screen](docs/screenshots/mobile.png)
+
 ## Explore the prototype
 
 - **Discover:** search eight attractions, filter by region and interest, compare up to three places, and open visitor information.
